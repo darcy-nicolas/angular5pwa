@@ -10,7 +10,7 @@ import { AppComponent } from './app.component';
     AppComponent
   ],
   imports: [
-    ServiceWorkerModule.register('/ngsw-worker.js', {enabled: true}),
+    ServiceWorkerModule.register('/angular5pwa/ngsw-worker.js', {enabled: true}),
     BrowserModule
   ],
   providers: [],
