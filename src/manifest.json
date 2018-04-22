@@ -27,7 +27,7 @@
         "sizes": "512x512",
         "type": "image/png"
       }],
-    "start_url": "/",
+    "start_url": "/angular5pwa/",
     "display": "standalone",
     "background_color": "#FFF",
     "theme_color": "#673AB7"
